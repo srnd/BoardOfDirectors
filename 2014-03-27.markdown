@@ -1,0 +1,61 @@
+# MARCH 27, 2014
+
+Because Charlie was traveling, this meeting was rescheduled from its original time - Wednesday, March 26 at 7:00pm - to Thursday, March 27th at 9:30am.
+
+Charlie, Christy, Tyler, and Edward were in attendance at the start of the meeting. Mike arrived several 10 minutes late, while Edward was covering some of the past month's report.
+
+## Past Month's Report
+
+Edward gave an update on CodeDay progress over the last month:
+
+Of the 26 events for this upcoming set of CodeDays, 10 currently have secured venues; it's difficult to tell how the remainder of the 16 will go.  Overall, we're ahead of past performance.
+
+Sponsorships aren't going as well as hoped; the explosive growth of hackathons has drained many sponsors' budgets (and it's more difficult to get recruiting sponsors in the spring, in any case). We have signed on some global sponsors.
+
+Tyler gave an update on other aspects of the business:
+
+The Tech evangelism program is progressing, but we need to recruit several additional evangelists to help with the upcoming set of CodeDays. We have a 32 people in total, but 10 are minors, who we don't think we can send.
+
+Labs applications close soon, and we have about 80 applicants. Some of those are spam and some aren't complete. We need to do a last-minute push this weekend to get more registrations before the application closes.
+
+Charlie mentioned that he had comments on our marketing plan; Tyler requested the discussion be tabled for later in the meeting.
+
+## Board Roles
+
+Edward brought up the subject of board roles and subcommittees, mentioning that we should have a committee for governance and finance. Tyler noted that, since there are only 5 people on the board, any subcommittee would contain nearly the entire board, and reporting would take a lot of the avalable meeting time.
+
+Christy agreed, and proposed the board create committees to perform work as needed as informal "hand-raise" committees, and disband after the work is completed.
+
+Edward mentioned that we also needed a secretary and vice-chair. Tyler nominated himself, since he was the only additional member of the board involved in day-to-day operations. The remainder of the board unanimously voted for Tyler as secretary and vice-chair.
+
+Tyler proposed making quarterly financial statements. Charlie agreed, and suggest we keep these to two key points: cash-on-hand, and burn. Christy suggested we publish these numbers on our website, and Tyler said he would make that happen.
+
+## Finances
+
+Edward gave a brief overview of finances, as we're currently aware:
+
+- Cash-on-hand: $100,611.96
+- AmEx Liability: $2,032
+- Chase Liability: $1,720
+
+Christy requested the overhead amount. Tyler mentioned that close to 95% of revenues were spent directly on programs according to the latest draft 990, however Edward noted that that's distributing salaries across programs. He noted that there's a small amount of overhead, but the amount would be difficult to calculate without precise time tracking. Christy suggested we also list this on the site.
+
+Christy requested information on income diversity. Edward responded that most of StudentRND's revenue is distributed across a large number of sponsors, as well as a very large number of attendees, and participants of our summer program.
+
+Christy mentioned that we should look more at private donors, as we should be able to increase our revenues dramatically.
+
+## PR
+
+Tyler brought up the email he had sent out with a PR strategy. Charlie felt the plan was not actionable enough, and provided a few suggested steps:
+
+- Collect a backlog of news items for PR
+- Write press releases - whether anyone reads them or not, it's a good exercise is clarifying the story
+- Get basic media training, and provide the same training to regional managers
+
+Tyler agreed that these were good steps, and said he would start working on them.
+
+Charlie suggested we be very explicit and conscious about the fact that we're helping the tech industry, and try to build up relationships with media in all cities with events.
+
+---- 
+
+The meeting was adjourned at 10:35am.
