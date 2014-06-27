@@ -1,0 +1,86 @@
+# February 26, 2014
+
+The meeting of the Board of Directors of StudentRND was called to order at 7:00pm by Edward Jiang.
+
+## Members Present
+
+- Edward Jiang, Chair and Chief Executive Officer
+- Tyler Menezes, Vice-Chair and Program Director
+- Mike Koss, Board Member
+- Charlie Kindel, Board Member
+
+A quorum of members was present.
+
+### Members Absent
+
+- Christy Wilson, Board Member
+
+## Business
+
+No business occurred at this meeting.
+
+## Adjournment of Meeting
+
+The meeting was adjourned at 8:00pm by Tyler Menezes.
+
+---- 
+
+# Record of Discussion
+
+## Past Month's Report
+
+### Feburary CodeDays
+
+Ed provided a summary of the February CodeDays, which had happened the month prior. We had six events schedules, although because of East-coast weather, DC was cancelled at the last minute. Across the other five events, we had 210 students. This is down from the previous set of events in January, which had 350 students across 6 cities. This decrease was partially because we didn't run events in San Francisco or Seattle, and partially because we cancelled DC.
+
+This series of events was also organized mostly internally with very little time; we started in late January a week after the January events.
+
+Tyler mentioned that the good news about this is that, as previously mentioned, bringing organizing in-house is the new model we're moving to in future events, and it seemed to work fairly well. We'll also be hiring people with more time who are better than us.
+
+### Organizer Hiring
+
+Edward mentioned that in hiring organizers, which he was in charge of, we exceeded our target by 30%. Charlie asked how the hiring process worked, and Edward explained that he met with the organizers and confirmed that they understood the responsibilities, then scheduled with Amyr, who talked to them about sales, and Tyler, who confirmed they were a cultural fit, and were interested in organizing a CodeDay, versus any other event.
+
+Charlie asked how good we were at interviews, and Tyler responded that, while we didn't have much prior experience in the area, we were largely hiring people who'd organized and had been successful in the past. Charlie asked if we had notes, so we could improve our hiring process in the future as we see who did well. Tyler confirmed that we did, and mentioned that these would probably be particularly useful for hiring people we haven't worked with in the past.
+
+Edward clarified that the CodeDay organizers were not technically hires, but were being paid as contractors based on several milestones:
+
+- $250 per event up-front
+- $250 for each event which confirms a venue
+- $250 upon 10 registrations
+
+He explained that, in the past, once an event had a venue it was very likely to actually happen; even with low initial attendance, we can usually drive enough interest to make sure it's a fun event for the participants.
+
+Mike asked about the return on the organizers. Tyler explained that, because organizers are paid as contractors based on milestones, it was somewhat difficult to calculate, but the most an organizer can cost is $750 per event, which should be made up in sponsorships. Edward added that we are paying a commission on net proceeds on sponsorship, to encourage them to raise some and be thrifty, because they were in charge of their budget.
+
+Edward told the board that we would be issuing cards to each of the organizers for charges related to their events. Charlie asked if these were pre-paid cards, and Edward explained that they were Visas with spending limits. Mike asked if this would be an issue with the bank, and Edward replied that we believe it would be okay, but if not we can do reimbursements. Mike agreed that the cards would be better for the organizers if possible.
+
+### Finances
+
+Tyler asked for an update on our cashflow with the organizers onboard. Edward replied that several organizers already have commitments from sponsors, so that's offset several people's costs, and even at $750 an organizer, we'll be okay with the money in the bank: currently $63,000, plus additional money in receivables.
+
+### Sponsorships
+
+Tyler mentioned that we have a new website and sponsorsheet, and could probably use the feedback of the board as to whether it sounded like a reasonable deal for sponsors. Edward said that he wouldn't take feedback on the sheet, as he was going to start selling soon.
+
+Charlie said he hadn't seen the sheet, and wondered if it was on the website. Edward explained that, no, it was not, however it was the same as the previous local levels, with several global up-sells:
+
+- $5k for API companies who want to give out a prize after the event
+- $5k for companies which want to sponsor a global award
+- $5k for companies which want resumes from all students
+
+Mike asked about the return on investment to sponsors. Tyler said that this was the hope, and asked for the feedback of the outside directors. Edward replied that, in comparison to other events, it seemed reasonable.
+
+Mike asked if the new levels would be an integral part of the curriculum. Tyler indicated that it was a separate pre-event feature to prevent negative attendee experience. Edward indicated that this also allowed a greater reach per staff time. Mike asked if the sponsors were concerned about a lack of engagement under this model; Edward indicated that they would not be.
+
+Mike asked for participant age demographics. Tyler indicated that it was roughly gaussian around age 17, though it depended largely on the city. Mike asked whether sponsors were sensitive to age, Edward indicated that they were not.
+
+Charlie asked what his feedback would be useful on, and Edward replied that we were not seeking feedback. He added that Charlie should tweet about the event to help generate hype.
+
+### Other Discussions
+
+Edward mentioned that the $25,000 grant from UW had arrived.
+
+Tyler informed the board that they would need to sign a conflict of interest policy.
+
+Edward informed the board that he was purchasing D&O insurance.

@@ -1,8 +1,40 @@
-# MARCH 27, 2014
+# March 27, 2014
 
-Because Charlie was traveling, this meeting was rescheduled from its original time - Wednesday, March 26 at 7:00pm - to Thursday, March 27th at 9:30am.
+Because Charlie was traveling, this meeting was rescheduled from its original time - Wednesday, March 26 at 7:00pm - to Thursday, March 27th at 9:30am by unanimous written consent of the Board of Directors.
 
-Charlie, Christy, Tyler, and Edward were in attendance at the start of the meeting. Mike arrived several 10 minutes late, while Edward was covering some of the past month's report.
+The meeting of the Board of Directors of StudentRND was called to order at 9:40am by Edward Jiang.
+
+## Members Present
+
+- Edward Jiang, Chair and Chief Executive Officer
+- Tyler Menezes, Program Director
+- Christy Wilson, Board Member
+- Mike Koss, Board Member
+- Charlie Kindel, Board Member
+
+A quorum of members was present.
+
+### Members Absent
+
+No members were absent.
+
+## Business
+
+Motion from Tyler Menezes to elect Tyler Menezes as Vice Chair and Secretary.
+**Vote:** 5 for, 0 against, 0 abstained
+**Resolved:** Motion carried
+
+Motion from Tyler Menezes to elect Edward Jiang as Chair.
+**Vote:** 5 for, 0 against, 0 abstained
+**Resolved:** Motion carried
+
+## Adjournment of Meeting
+
+The meeting was adjourned at 10:45am by Edward Jiang.
+
+---- 
+
+# Record of Discussion
 
 ## Past Month's Report
 
@@ -22,11 +54,11 @@ Charlie mentioned that he had comments on our marketing plan; Tyler requested th
 
 ## Board Roles
 
-Edward brought up the subject of board roles and subcommittees, mentioning that we should have a committee for governance and finance. Tyler noted that, since there are only 5 people on the board, any subcommittee would contain nearly the entire board, and reporting would take a lot of the avalable meeting time.
+Edward brought up the subject of board roles and subcommittees, mentioning that we should have a committee for governance and finance. Tyler noted that, since there are only 5 people on the board, any subcommittee would contain nearly the entire board, and reporting would take a lot of the available meeting time.
 
 Christy agreed, and proposed the board create committees to perform work as needed as informal "hand-raise" committees, and disband after the work is completed.
 
-Edward mentioned that we also needed a secretary and vice-chair. Tyler nominated himself, since he was the only additional member of the board involved in day-to-day operations. The remainder of the board unanimously voted for Tyler as secretary and vice-chair.
+Edward mentioned that we also needed a secretary and vice-chair. Tyler nominated himself as vice-chair, since he was the only additional member of the board involved in day-to-day operations. The remainder of the board unanimously voted for Tyler as secretary and vice-chair.
 
 Tyler proposed making quarterly financial statements. Charlie agreed, and suggest we keep these to two key points: cash-on-hand, and burn. Christy suggested we publish these numbers on our website, and Tyler said he would make that happen.
 
