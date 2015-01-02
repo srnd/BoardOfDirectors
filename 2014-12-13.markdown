@@ -1,0 +1,46 @@
+# December 13, 2014
+
+The meeting of the Board of Directors of StudentRND was called to order at 10:00am by Edward Jiang.
+
+## Members Present
+
+- Edward Jiang, Chair
+- Tyler Menezes, Vice-Chair, Secretary, and Executive Director
+- Christy Wilson, Board Member
+- Charlie Kindel, Board Member
+
+A quorum of members was present throughout the meeting.
+
+### Members Absent
+
+No members were absent.
+
+## Business
+
+Motion from Edward Jiang to approve the minutes from the meeting on October 29, 2014
+**Vote:** 4 for, 0 against
+**Resolved:** Motion carried
+
+Tyler Menezes presented a report of StudentRND's operations over the last two months:
+  - Most efforts were focused on closing CodeDay
+  - StudentRND announced CodeX, which served to gain knowledge of how to close press, help close two sponsors, and to get the community excited about community engagement.
+  - During CodeDay, #CodeDay was trending on Twitter! Overall, results were positive, as presented in the previous meeting
+  - The Individual Donor Plan was put into place, with a goal of raising $10,000 by the end of the calendar year
+  - StudentRND followed up with all students, sponsors, and venues involved in CodeDay in the form of a post-venue survey
+
+Tyler Menezes presented a summary of the results from CodeDay versus the metrics. All metrics were met except global publicity and local sponsorship targets were not met.
+
+Tyler Menezes presented the financial report for Q1 2014 (Q3 of the calendar year).
+
+The board discussed the possibility of Labs. There was interest in continuing Labs from all members of the board, but it was agreed that no serious effort would be made
+until more sponsorships were closed. The Board agreed to make a decision on Labs in the January 2015 meeting.
+
+The meeting was temporarily adjourned until after the strategic planning session by Edward Jiang at 12pm.
+
+The meeting was again called to order at 4:30pm.
+
+Edward Jiang presented a framework for setting metrics for Executive Review. The board agreed that Tyler Menezes would use metrics to put together a proposal to be presented at the following board meeting.
+
+## Adjournment of Meeting
+
+The meeting was adjourned at 8:00pm by Edward Jiang.
