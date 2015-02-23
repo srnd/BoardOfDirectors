@@ -1,0 +1,62 @@
+# January 28, 2015
+
+The meeting of the Board of Directors of StudentRND was called to order at 7:00pm by Edward Jiang.
+
+## Members Present
+
+- Edward Jiang, Chair
+- Tyler Menezes, Vice-Chair, Secretary, and Executive Director
+- Christy Wilson, Board Member
+- Charlie Kindel, Board Member
+
+A quorum of members was present throughout the meeting.
+
+### Members Absent
+
+No members were absent.
+
+## Business
+
+Motion from Edward Jiang to approve the minutes from the meeting on December 13, 2014
+**Vote:** 4 for, 0 against
+**Resolved:** Motion carried
+
+Tyler Menezes presented a report of StudentRND's operations since the last meeting:
+
+- There was a major problem with CodeDay: the two-season RM contracts meant a lot of RMs which weren't really committed dropped out half-way through the season
+- We will have to make some more adjustments to hiring for RMs because of high turnover, will stay the same for now
+- The Splunk sponsorship closed at $50k
+- The other $25k sponsor we were talking to backed out after we sent a contract
+- We have several $5k local and national sponsors
+- We also have a decent number of local sponsors
+- CodeDays are selling out faster this time. We had to open a second CodeDay Seattle.
+- Launched #CodeDate, a promotion to get more couples to come to CodeDay because it's on Valentine's day
+- CodeDay LA: announced it's being hosted by wil.i.am
+- Opened partnerships with TEALS and HackEDU (school clubs)
+- Labs site was updated, ready to hire a program manager if board approves
+
+Motion from Charlie Kindel to approve Labs for 2015 and hire a program manager
+**Vote:** 4 for, 0 against
+**Resolved:** Motion carried
+
+Edward Jiang mentioned covering the Strategic Plan, and asked Tyler to lead a discussion of the plan. Several suggestions were made:
+
+- Move Competetors to an appendix
+- Include more details on CodeX as an appendix
+- Prioritize weaknesses: press, volunteers
+- Include more on press strategy, pending input from Charlie and Christy
+
+The board asked Tyler to make the revisions for presentation at the next meeting.
+
+Edward led a discussion of the Executive Metrics, and the following improvements were proposed:
+
+- Include more information on and standardize the time period of measurement
+- Create specific goals for media and press after feedback from Charlie and Christy
+- Include information on engaging with talent and teachers
+
+The board asked Tyler to make the revisions for presentation at the next meeting.
+
+
+## Adjournment of Meeting
+
+The meeting was adjourned at 8:00pm by Edward Jiang.
