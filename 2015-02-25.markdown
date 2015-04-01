@@ -1,0 +1,46 @@
+# February 25, 2015
+
+The meeting of the Board of Directors of StudentRND was called to order at 7:00pm by Edward Jiang.
+
+## Members Present
+
+- Edward Jiang, Chair
+- Tyler Menezes, Vice-Chair, Secretary, and Executive Director
+- Christy Wilson, Board Member
+- Charlie Kindel, Board Member
+
+A quorum of members was present throughout the meeting.
+
+### Members Absent
+
+No members were absent.
+
+## Business
+
+Motion from Edward Jiang to approve the minutes from the meeting on January 28, 2015
+**Vote:** 4 for, 0 against
+**Resolved:** Motion carried
+
+Tyler Menezes presented a report of StudentRND's operations since the last meeting:
+
+- CodeDay went well overall, with no last-minute problem this time. NPS increased to 56, diversity increased to 15% minorities, maintained 40% girls. Lost a small amount of money on CodeDay, still processing reimbursements.
+- Currently have 29 CodeDay cities on the map, with RMs signed on for 85% of them. Will likely remove 3, so no growth from last season.
+- Currently in talks with 30 companies for sponsorship of next season. Creating sponsor personas and using them to redo the sponsor site and update promotional materials.
+- Working on improving Evangelism and RM training in addition to finishing up administrative work on CodeDays.
+- Hired a Labs program manager, and got 5 applicants for Labs. Currently working on closing the venue. Brett is also talking to some companies that were interested in sponsoring Labs.
+
+Tyler Menezes covered the progress on the Strategic Plan:
+
+- Made some changes as suggested: created KPIs, normalized goals to ARR for the fiscal year, and updated some details on the competitor section
+- Not ready for a vote, as Tyler was unable to work with Christy and Charlie on the press and branding strategy because of schedule constraints.
+
+Christy and Charlie agreed to meet later in the week, and Tyler said he would revise the documents after those meetings and send them out to the board for review.
+
+Tyler Menezes presented the Q2 Financials.
+
+Tyler Menezes discussed a request for a fiscal sponsorship from Zach Latta, who has been a long-time CodeDay organizer. The board voted against fiscal sponsorship because it was an ongoing, non-event based organization, which is distracting from what StudentRND does.
+
+
+## Adjournment of Meeting
+
+The meeting was adjourned at 8:00pm by Edward Jiang.
