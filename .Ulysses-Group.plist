@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>Untitled.md</string>
+		</array>
+		<array>
+			<string>2014-02-26.markdown</string>
+		</array>
+		<array>
+			<string>2014-03-27.markdown</string>
+		</array>
+		<array>
+			<string>2014-04-30.markdown</string>
+		</array>
+		<array>
+			<string>2014-05-28.markdown</string>
+		</array>
+		<array>
+			<string>2014-06-25.markdown</string>
+		</array>
+		<array>
+			<string>2014-07-30.markdown</string>
+		</array>
+		<array>
+			<string>2014-08-27.markdown</string>
+		</array>
+		<array>
+			<string>2014-09-24.markdown</string>
+		</array>
+		<array>
+			<string>2014-10-29.markdown</string>
+		</array>
+		<array>
+			<string>2014-11-26.markdown</string>
+		</array>
+		<array>
+			<string>2014-12-13.markdown</string>
+		</array>
+		<array>
+			<string>2015-01-28.markdown</string>
+		</array>
+		<array>
+			<string>2015-02-25.markdown</string>
+		</array>
+		<array>
+			<string>2015-04-01.markdown</string>
+		</array>
+		<array>
+			<string>2015-04-29.markdown</string>
+		</array>
+		<array>
+			<string>2015-06-03.markdown</string>
+		</array>
+		<array>
+			<string>2015-07-11.md</string>
+		</array>
+	</array>
+	<key>userIconName</key>
+	<string>Globe</string>
+</dict>
+</plist>

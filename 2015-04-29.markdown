@@ -1,0 +1,58 @@
+# April 29, 2015
+
+The meeting of the Board of Directors of StudentRND was called to order at 7:00pm by Edward Jiang.
+
+## Members Present
+
+- Edward Jiang, Chair
+- Tyler Menezes, Vice-Chair, Secretary, and Executive Director
+- Christy Wilson, Board Member
+- Charlie Kindel, Board Member
+
+A quorum of members was present throughout the meeting.
+
+### Members Absent
+
+No members were absent.
+
+## Business
+
+Motion from Edward Jiang to approve the minutes from the meeting in March 2015
+**Vote:** 4 for, 0 against
+**Resolved:** Motion carried
+
+### Executive Director Report
+
+Tyler Menezes presented a report of StudentRND's operations since the last meeting:
+
+#### CodeDay
+
+- Overall, CodeDay is still doing well. We're getting solid registration numbers and RMs have only just started working on promotion.
+- We have Evangelists in most cities across the US, which is a big benefit because we'll be able to save money on air travel. We only need people in 3-4 cities.
+- Sponsorships are not going well. Over the last month we planned to raise $15k in global sponsorships and $10k in local sponsorships, however we have $2k in local sponsors, and $0 in global sponsors, despite almost 60 in the pipeline. More on cashflow in a minute.
+
+#### Labs
+
+- Labs is also going okay, we have a lot of late registrations. The main uncertainty is how many of the people who have been accepted and said they intended to participate will actually follow through with the payment process. So far only a few have. The deadline is the 15th of this month.
+
+#### Revenue
+
+- Revenues are the main concern right now. At the moment we have 6-8 months of runway depending on how you count it. We expected to raise about 25k in total CodeDay sponsorship, which would have raised that by several months, but instead we haven't raised anything.
+- I cut all unnecessary expenses, including not ordering T-shirts (which will save $8k), and we expect to cut about out $5k of food money by increasing oversight on that this season, which helps prolong the runway, but it's still fairly concerning.If we don't close any new sponsors over the summer this will be a really serious issue by Fall.
+- Also scheduled extra meetings with different groups of RMs on Monday to talk about how sponsorship has been going and see what we can improve on in the next month. 8 regions are well promoted enough that they can be spending all their time on sponsorships.
+- I'm not sure why we haven't been getting anywhere -- as far as the data Brett's been giving me goes, we're talking to the right number of people, but we were expecting a 5% total close rate of 60 leads, and right now we have 0.
+
+### Board Recruitment
+
+- Edward and Tyler talked with Zaq, and believe he will be a good fit for the board. Will invite as an observer for the next board meeting.
+- Tyler has been talking with Hillel, and will meet with him at CodeDay. Might be a good fit for the board in the long-term, but not immedately.
+- Edward is working to get a meeting with Pejman
+- Edward Jung might be worth talking to, but no immedate next steps.
+
+#### Board Meeting
+
+A strategic meeting was scheduled for June 27; Charlie offered to host. A dinner is to be scheduled the Friday before.
+
+## Adjournment of Meeting
+
+The meeting was adjourned at 8:00pm by Edward Jiang.

@@ -1,0 +1,57 @@
+# December 17, 2015
+
+The meeting of the Board of Directors of StudentRND was called to order at 7:00pm by Edward Jiang.
+
+## Members Present
+
+- Edward Jiang, Chair
+- Tyler Menezes, Vice-Chair, Secretary, and Executive Director
+- Charlie Kindel, Board Member
+- Christy Wilson, Board Member
+- Zaq Wiedmann, Board Member
+
+A quorum of members was present throughout the meeting.
+
+## Business
+Motion from Zaq to approve the Minutes from November 25, 2015.
+**Vote:** 5 for, 0 against
+**Resolved:** Motion carried
+
+Tyler Presented the Executive Director Report:
+
+- CodeDay Winter 2016 organizing is continuing:
+  - We will be two months away from CodeDay as of Saturday.
+  - At the moment, 8 cities have venues, which is mostly normal for this point.
+  - The official deadline for getting venues is this weekend, and many do have venues, but it's likely some cities will take until next week to close a venue.
+  - Some cities have sponsors already, and we are continuing to work with RMs with fewer sponsors in the past to try to close more sponsors.
+- Sponsorships are going relatively well.
+  - All paperwork is now signed for a 2016 sponsorship from LexisNexis for $25,000, will get a check before the end of the year.
+  - Waiting to hear back from Splunk about their sponsorship in 2016 -- was supposed to get a response by the end of last week. Likely $50,000 again, with no increase. Still no paperwork there.
+  - No response from Intellectual Ventures at all; their PR firm (who were our last known contact and we were told were in charge of grant giving at the moment) do not reply to emails.
+  - Should hear back about two grants we applied for in January.
+  - Got the help of a grantwriter (from Phoenix) who will be helping us apply for more grants.
+  - Discussed fundraising with Bob Crimmins, who worked with Startup Weekend at an early stage; for Startup Weekend, according to Bob, having well-connected board members was critical. He volunteered to help us recruit those people for the board.
+
+Tyler presented the Q1 financials.
+
+The board reviewed Tyler's proposed chairman job description:
+- Christy mentioned it would be useful to specify both a specific time and financial commitment in the description.
+- Edward suggested changing instances of "oversee" to "ensure" to reflect the position's focus on creating accountability.
+- Christy recommended adding a specific expected and maximum term to the position.
+- Edward suggested making recurring meetings with board members a part of the description as well.
+
+The board discussed Edward's plan to resign from the board.
+
+Motion from Tyler to elect Zaq as the new Chairman of the Board, to replace Edward.
+**Vote:** 5 for, 0 against
+**Resolved:** Motion carried
+
+Edward resigned his position on the board.
+
+The board discussed what to do about recruiting Bob Crimmins from the board; it was agreed that Zaq and Tyler would meet
+with him, and would report back at the next board meeting, with the expectation that if he seems like a good fit, we may
+ask him to be an observer at the meeting following that.
+
+## Adjournment of Meeting
+
+The meeting was adjourned at 8:00pm by Tyler Menezes.

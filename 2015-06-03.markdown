@@ -1,0 +1,90 @@
+# June 3, 2015
+
+The meeting of the Board of Directors of StudentRND was called to order at 7:00pm by Edward Jiang.
+
+## Members Present
+
+- Edward Jiang, Chair
+- Tyler Menezes, Vice-Chair, Secretary, and Executive Director
+- Christy Wilson, Board Member
+- Charlie Kindel, Board Member
+
+A quorum of members was present throughout the meeting.
+
+### Members Absent
+
+No members were absent.
+
+## Business
+
+### Executive Director Report
+
+Tyler Menezes presented a report of StudentRND's operations since the last meeting:
+
+#### CodeDay
+
+- Overall success, attendees really seemed to enjoy it.
+- Lots of pre-event press.
+	- e.g. 5 minute special on Univision nation-wide.
+		- 1 story in about 40% of markets
+	- 40% girls, 20% minorities. No delta in girls but that's a 5 point increase in minorities. Things like Univision helped, but largely through promotion with partner schools.
+	- NPS: 68 -- up 10 points. Overall much more positive feedback about Evangelists, so improved training works.
+		- Most neutral feedback mentioned bad wifi in the comments.
+	- As mentioned, lower sponsorship over last quarter. We contacted the expected number of sponsors, but almost none closed. Did raise $3k in global sponsors, $5k in local.
+	- Expenses down from last quarter. We made about $10k off this season, even with lower than expected sponsorship. Mostly due to no shirts, but also by cutting food spend; further reducing air spend.
+
+#### Labs
+
+We only have 10 people who've paid for the program now, 6 in session I, 4 in session II. There was a WAY higher than expected dropoff. We'd technically make a profit, but I don't think it's in the interest of most of the students Tyler talked to, who were more interested in group work.
+
+Metrics were similar to last year, except with a very high dropoff between accepted and paid, which caused most of the lack of participation.
+
+We promoted Labs in:
+
+- parent newsletters from school districts -- Seattle, Bellevue, and Lake Washington school districts
+- references and a referral program from past parents
+- references and referrals from past students
+- some robotics teams
+- meetups
+- online advertising (Google non-profits adwords credit)
+
+We tried also promoting in the SF bay region in case students were interested in traveling, because of the larger market. ~10% of applications were from students outside of Seattle.
+
+We hit the metrics we were expecting, which I think shows in the increase of signups.
+
+Some potential reasons we might have failed to convert as many:
+
+- Some parents told me they weren't sold on the qualifications of our team after the interviews
+- The long lead-time between applications (January) and interviews (May) may have caused 
+
+**The board agreed to cancel Labs 2015,** without any motion. The board also suggested arranging some form of mentorship for the students involved.
+
+### Financials
+
+Tyler presented the Financials for Q3 2015, which were summarized as:
+
+- Total assets: 18,672
+- Income for period: 75,367
+- Operating expenses for period: (89,465)
+- Net income for period: (19,609)
+
+### Board Recruitment Status
+
+- Zaq attended this meeting as an observer; board will decide on Zaq's inclusion on the board next meeting
+- Meeting with Pejman was rescheduled
+
+The board also took questions from Zaq about the role of the board.
+
+### CodeDay 2016 Schedule
+
+Motion by Edward Jiang to table this agenda item.
+**Vote:** 4 for, 0 against
+**Resolved:** Motion carried
+
+### Strategy Meeting Planning
+
+Charlie is unable to attend the originally scheduled meeting. The board agreed to reschedule the meeting for July 11.
+
+## Adjournment of Meeting
+
+The meeting was adjourned at 8:00pm by Edward Jiang.

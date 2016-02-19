@@ -1,0 +1,56 @@
+# October 28, 2015
+
+The meeting of the Board of Directors of StudentRND was called to order at 7:00pm by Edward Jiang.
+
+## Members Present
+
+- Edward Jiang, Chair
+- Tyler Menezes, Vice-Chair, Secretary, and Executive Director
+- Christy Wilson, Board Member
+- Zaq Wiedmann, Board Member
+
+A quorum of members was present throughout the meeting.
+
+## Members Absent
+
+- Charlie Kindel, Board Member
+
+## Business
+
+Motion from Christy to approve the Minutes from August 26, 2015.
+**Vote:** 4 for, 0 against
+**Resolved:** Motion carried
+
+Tyler Presented the Executive Director Report
+
+- CodeDay management
+        - We have 20 cities participating, all are ready to go at this point.
+	- RM sponsorships did increase somewhat: average was around $300 an event in cash, and that was mostly carried by a few RMs. We can continue to get better at it.
+        - Lots more food sponsorships this time, so food budget should be lower. Don't have final food budgets until Friday.
+        - No shirts/etc again; also went for cheaper trophies.
+- National/global sponsors
+	- We had two yeses on national sponsorship this round, but then both pulled out  after asking for an invoice. Some sponsors have told us they will sponsor Winter, although who knows.
+	- Coming time to renew with global sponsors:
+		- Went to Splunk's .conf to talk with Corey + was invited to talk to Godfrey, the CEO. Seems like they're positive on renewing for another year. Not sure about increasing amount, it doesn't sound like Corey's budget has increased.
+		- LexisNexis also seems to be happy with how things are going. There were some problems with Miami, so I don't expect I'll be able to get them to up their commitment this year, but I think we can count on $25k again.
+		- Our contact at IV left, and the people I've been put in contact with aren't very interested in getting involved. Not sure what to expect there.
+- Parent campaign wasn't super effective, got a handful of volunteers, plus $600 in one-time donations and $50 in recurring donations. Should review ask for parents.
+- Made some website updates as discussed last month: improved homepage and added about section, as well as simplified donating.
+
+
+Tyler talked about applying for more specific local grants as part of a new sponsorships strategy. The board felt it was a good idea, but in the process of doing so the operational complexity 
+involved with meeting grant criteria, as well as the time required to submit the grants would need to be carefully balanced. There was also concern around the number of grants available to fund 
+ongoing operations. It was ultimately decided that working on grants should go forward with those drawbacks being monitored.
+
+Edward discussed his intent to resign from the board, and what would be necessary to create a transition strategy. There were three main questions which were slated for offline review:
+
+- What are the requirements for the number of directors under the corporate bylaws and under IRS rules/suggestions, and what is the process for removal?
+- Do we want to add additional directors to the board?
+- Who should take over as chairman?
+
+Tyler agreed to look into the legal requirements for the board, while Edward volunteered to talk to the board members individually to discuss their thoughts for who should become Chairman. The 
+board agreed to table discussion of additional directors for the moment.
+
+## Adjournment of Meeting
+
+The meeting was adjourned at 8:01pm by Edward Jiang.
