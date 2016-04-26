@@ -1,0 +1,56 @@
+# February 9, 2016
+
+The meeting of the Board of Directors of StudentRND was called to order at 7:00pm by Zaq Wiedmann.
+
+## Members Present
+
+- Zaq Wiedmann, Board Chair
+- Tyler Menezes, Vice-Chair, Secretary, and Executive Director
+- Charlie Kindel, Board Member
+- Christy Wilson, Board Member
+
+A quorum of members was present throughout the meeting.
+
+## Business
+Motion from Zaq to approve the Minutes from December 17, 2015.
+**Vote:** 4 for, 0 against
+**Resolved:** Motion carried
+
+Tyler Presented the Executive Director Report:
+
+- CodeDay Winter 2016 is this weekend:
+  - Attendance numbers are up 5% from this time last season.
+  - Financials: At the local event level, we have raised $3,000 in sponsorship so far. Expecting final sponsorships to be $4300 with a few deals expected to close this week. Including food sponsors, we're expecting to realize a profit of about $6,000 with the current budgets. Still missing several budgets.
+  - We've also booked close to $90,000 since the last board meeting, between Splunk, LexisNexis, and an individual donation campaign for CodeDay sponsorships. We've also applied for $150,000 in grant funding across five grants. We're expecting to hear back from one each month for the next five months. Continuing to work with Kristin from CodeDay Phoenix, who's a grantwriter. Most of this funding is amortized.
+  - Press and Branding: We've completed an update to the CodeDay branding, as well as a redesign of the CodeDay website, which we've been working on for several months. User testing showed 40% more engagement with the new site over the old site. This also comes with updated sponsorship and press materials, and an updated video. We've had positive reception from media; two TV news stations are planning to come to the upcoming CodeDay in San Francisco, one in Arizona, and one in Nashville.
+  - We've updated our training for Evangelists, and are finishing updated training for RMs. We have also been developing training for mentors and other volunteers; with a new volunteer tool we're deploying after this CodeDay, we're expecting to do a big push for more involvement from local members of the tech community and from parents. This fits into our strategy of increasing engagement with parents.
+- Zaq and Tyler met with Bob, who gave some good guidance on recruiting board members who can create connections; Zaq has this on the agenda already, so no more details are provided here.
+
+Charlie complimented the new branding direction, and asked for the status on sponsors he'd introduced; Tyler responded that he was unable to close them for this event, but expected to be able to for the following event.
+
+
+- The board asked for some changes to be made to the board flyer.
+  - Update the language on the headings
+  - Explain the "why" earlier
+  - Add the StudentRND URL earlier
+  - Explain expected qualifications earlier.
+
+The board discussed next-steps for onboarding Bob Crimmins as a board member:
+  - Meet with him, and pitch him with the updated pitch
+  - Have him join the next board meeting as an observer
+
+The board asked for improvements for speeding up further board meetings:
+  - Potentially adding canned tasks that board members could pick up
+  - Setting clear follow-up tasks
+  - A standard format for updates
+  - Sending updates at least 1 week in advance
+
+Follow-up tasks for next meeting:
+
+  - Charlie meeting about press brand
+  - Christy + Zaq talk about 2 year plan + specific recruiting targets
+  - Zaq work with Tyler on board format
+
+## Adjournment of Meeting
+
+The meeting was adjourned at 8:00pm by Zaq Wiedmann.
