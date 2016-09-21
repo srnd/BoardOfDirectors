@@ -1,0 +1,61 @@
+# April 28, 2016
+
+The meeting of the Board of Directors of StudentRND was called to order at 7:00pm by Zaq Wiedmann.
+
+## Members Present
+
+- Zaq Wiedmann, Board Chair
+- Tyler Menezes, Vice-Chair, Secretary, and Executive Director
+- Christy Wilson, Board Member (arrived late)
+- Bob Crimmins, Board Member
+- Charlie Kindle, Board Member
+
+A quorum of members was present throughout the meeting.
+
+## Business
+
+Motion from Charlie to approve the Minutes from March 8, 2016.
+**Vote:** 4 for, 0 against, 1 absent
+**Resolved:** Motion carried
+
+Tyler Presented the Executive Director Report:
+
+- CodeDay-Related
+    - CodeDay registrations are now open in almost all cities. There were a few last-minute venue issues tying up LA and Portland right now which we hope to have resolved soon.
+    - CodeDay SF has signed a several-story venue, and we will have capacity for 500 students. 500 students will cause additional logistical and program challenges, but it's a great start as we figure out how to scale CodeDay in additional cities.
+- Fundraising
+    - Christy, Bob and I worked to create a strong fundraising pitch that I'm very proud of.
+    - The srnd.org website was revised with some of the pitch and branding used in the presentation. (We acquired srnd.org from the previous owner, who liked what we were doing :)) We have gotten several compliments on the new clarity of messaging.
+    - I created a list of possible introductions for fundraising, and sent out some emails asking for intros based on LinkedIn connections. I only recently got all of the replies back, so I'd like to chat about the connections personally next Monday and come up with a solid plan.
+- Misc
+    - A guy named Matt Farley wrote a song about CodeDay.
+    - Our LA organizer, Gemma Busoni, was featured on the cover of Seventeen with the First Lady. She discussed her work on CodeDay in the article although the magazine didn't run a lot of it.
+    - I wrote an interesting summary of the techniques that make CodeDay work. You might find it interesting if you haven't thought about it too much.
+    - We got a really nice email from a teacher about CodeDay's impact on her students. You can see it at the bottom of srnd.org
+
+The discussion of Sponsorship Leads from the agenda was tabled per agreement.
+
+Tyler presented the final fundraising pitch deck, and the board provided feedback:
+
+- We should have answers for common questions, such as "how is this different from Code.org"
+- Should focus more on telling stories, particularly the story of Bryan
+- Needs to briefly discuss benefits for non-low-income students, so decision makers feel this can benefit their kids
+- Clarify existing partners
+- Change the ask per group
+
+Tyler also presented personas for potential board member recruitment:
+
+- Someone who can open doors for funding
+- Someone who can open doors for partnerships
+- Someone with deep experience in diversity and inclusion, for guidance in that subject
+- Someone with connections to a notable school district or related organization, for guidance in making partnerships
+- A StudentRND alum
+
+Charlie and Bob recommended coming up with a list of where such potential board members might be found, to make the
+plan more actionable.
+
+Tyler presented his plan for fundraising and recruiting trips over the summer.
+
+## Adjournment of Meeting
+
+The meeting was adjourned at 8:00pm by Zaq Wiedmann.
